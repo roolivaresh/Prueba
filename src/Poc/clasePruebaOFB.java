@@ -2,6 +2,6 @@ package Poc;
 
 public class clasePruebaOFB {
 	
-	String ofb= "Prueba";
+	String ofb= "Prueba 2";
 	
 }
