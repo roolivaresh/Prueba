@@ -45,9 +45,10 @@ public class DiasDeLaSemana2 {
 	}
 	
 	public static void main(String[] args) throws Exception {
+		System.out.println("inicia calculo");
 		DiasDeLaSemana2 dsm = new DiasDeLaSemana2();
 		dsm.doIt();
-		
+		System.out.println("mensaje de prueba");
 	}
 	
 	
