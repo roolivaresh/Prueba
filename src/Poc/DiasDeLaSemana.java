@@ -186,6 +186,7 @@ public class DiasDeLaSemana {
 	}// END Doit
 	
 	public static void main(String[] args) throws Exception {
+		System.out.println("mensaje 1");
 		DiasDeLaSemana dsm = new DiasDeLaSemana();
 		dsm.doIt();
 		System.out.println("mensaje de prueba");
